@@ -19,7 +19,7 @@ python face_swap.py
 ```
 
 ### 效果
-![image]("https://github.com/li-bx/face_swap/blob/main/效果图.jpg")
+![image](./效果图.jpg)
 
 直接上代码：
 
